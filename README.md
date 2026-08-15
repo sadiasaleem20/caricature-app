@@ -27,6 +27,3 @@ http://caricature-app-frontend-sadia20.s3-website-us-east-1.amazonaws.com
 Sadia Saleem
 
 Built for the AWS Weekend Creative Challenge 2026
-- GitHub: [@sadiasaleem20](https://github.com/sadiasaleem20)
-
-Built for the AWS Weekend Creative Challenge 2026 🏆
