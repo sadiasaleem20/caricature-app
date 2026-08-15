@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.zip
+dist/
+.aws-sam/
+
+infra/permissions-policy.json
